@@ -1,2 +1,2 @@
-run = "my_bash_script.sh"
+run = "javac FirstAssig.java && java FirstAssig"
 language = "java"

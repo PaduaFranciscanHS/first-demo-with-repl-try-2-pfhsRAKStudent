@@ -4,6 +4,6 @@ public class FirstAssig
   {
   
   //write a print statement with your name
-  
+  System.out.println("Rich");
   }
 }
