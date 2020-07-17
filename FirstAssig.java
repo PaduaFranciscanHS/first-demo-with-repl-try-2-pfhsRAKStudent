@@ -5,5 +5,6 @@ public class FirstAssig
   
   //write a print statement with your name
   System.out.println("Rich");
+  //Dude - you need to make a change here
   }
 }
